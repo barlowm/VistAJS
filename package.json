@@ -1,0 +1,6 @@
+{ "name" : "test-rpc"
+, "version" : "1.1.1"
+, "description" : "A package for RPC testing"
+, "main" : "rpc-test.js"
+, "man" : "./man/doc.1"
+}

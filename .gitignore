@@ -1,0 +1,3 @@
+GIT_COMMAND_LOG.log 
+*.bak
+build\* 
